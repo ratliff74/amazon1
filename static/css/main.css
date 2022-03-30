@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+}
+
+.form-group-row{
+    font-size: large;
+}
+
+.masterbox{
+    margin-left: 356px;
+}
+.box{
+    width: 350px;
+    height: 270px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin-left: 20%;
+    word-spacing: 2%;
+    /* padding-left: 120px; */
+}
+.box h1{
+    margin-right: 200px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+}
+
+.label1 {
+    margin-right: 50px;
+}
+
+/* .mydiv {
+    padding-left: 50px;
+} */
+
+.forget{
+    margin-left: 100px;
+}
+.box2{
+    width: 300px;
+    margin: auto;
+    border: 3px;
+}
+
+.form-control{
+    width: 300px;
+}
+
+.email{
+    width: 300px;
+}
+
+.help{
+    margin-right: 200px;
+}
+.col-sm-2col-form-label{
+    padding: 20px 40px;
+}
+.media{
+    font-size: x-large;
+    text-align: center;
+}
+
+.gold{
+    width: 310px;
+    background-color: gold;
+    margin-left: 9px;
+}
+
+.account{
+    width: 310px;
+    margin-left: 45px;
+
+}
+
+.bottom ul li{
+    display: inline;
+}
